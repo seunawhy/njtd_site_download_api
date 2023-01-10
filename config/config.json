@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "njtdcomn_downloader",
+        "password": "*oveqLLM]C8(",
+        "database": "njtdcomn_downloads",
+        "host": "192.64.112.158",
+        "dialect": "mysql"
+      },
+      "test": {
+        "username": "njtdcomn_downloader",
+        "password": "*oveqLLM]C8(",
+        "database": "njtdcomn_downloads",
+        "host": "192.64.112.158",
+        "dialect": "mysql"
+      },
+      "production": {
+        "username": "njtdcomn_downloader",
+        "password": "*oveqLLM]C8(",
+        "database": "njtdcomn_downloads",
+        "host": "192.64.112.158",
+        "dialect": "mysql"
+      }
+}

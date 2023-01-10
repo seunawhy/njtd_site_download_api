@@ -1,1 +1,2 @@
-# njtd_site_download_api
+# Download API
+Written with NodeJS + Express + Sequelize + MySQL
